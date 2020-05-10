@@ -1,0 +1,14 @@
+fun main(){
+
+getName()
+
+
+
+
+}
+
+val userName: String= "Maiti"
+fun getName(): String{
+return "Sujal"
+
+}
